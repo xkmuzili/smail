@@ -12,7 +12,7 @@ binding = "KV"
 id = "07f8fe12acba46bbba773dbf6b68aa81"
 
 [[d1_databases]]
-binding = "DB"
+binding = "XK so"
 database_name = "smail"
 database_id = "f591d1c7-0060-4d35-a146-099ec27b49b1"
 preview_database_id = "f591d1c7-0060-4d35-a146-099ec27b49b1"
